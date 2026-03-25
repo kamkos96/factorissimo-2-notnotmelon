@@ -1,0 +1,36 @@
+{
+  "entity": [
+    [
+      "factory-pipe-input",
+      "pipe"
+    ],
+    [
+      "factory-pipe-output",
+      "pipe"
+    ],
+    [
+      "factory-pipe-to-ground-input",
+      "pipe-to-ground"
+    ],
+    [
+      "factory-pipe-to-ground-output",
+      "pipe-to-ground"
+    ],
+    [
+      "factory-kr-steel-pipe-input",
+      "kr-steel-pipe"
+    ],
+    [
+      "factory-kr-steel-pipe-output",
+      "kr-steel-pipe"
+    ],
+    [
+      "factory-kr-steel-pipe-to-ground-input",
+      "kr-steel-pipe-to-ground"
+    ],
+    [
+      "factory-kr-steel-pipe-to-ground-output",
+      "kr-steel-pipe-to-ground"
+    ]
+  ]
+}
