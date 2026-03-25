@@ -73,6 +73,7 @@ end
 
 local function is_legacy_factory_floor(surface_name)
     return surface_name:match("^%d+%-factory%-floor$") ~= nil
+        or surface_name:match("^factory%-floor%-%d+$") ~= nil
 end
 
 local function can_skip_factory_surface_check()
